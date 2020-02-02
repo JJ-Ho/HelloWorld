@@ -1,3 +1,3 @@
-# HelloWorld
+# GitHub sync test
 
-Here is a testing repo
+This note will be push to my GitHub
